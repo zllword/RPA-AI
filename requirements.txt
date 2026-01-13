@@ -1,0 +1,41 @@
+# 微信RPA机器人依赖
+# 安装命令: pip install -r requirements.txt
+
+# RPA自动化
+pyautogui>=0.9.54
+pywinauto>=0.6.8
+
+# 图像处理
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# OCR文字识别
+pytesseract>=0.3.10
+
+# AI API
+openai>=1.0.0
+
+# 数据处理
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Web管理界面(可选)
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# 配置管理
+python-dotenv>=1.0.0
+
+# 日志
+colorlog>=6.7.0
+
+# HTTP请求(用于API调用)
+requests>=2.31.0
+
+# 数据库
+# sqlite3 是Python内置模块,无需安装
+
+# 类型检查(开发用)
+# mypy>=1.0.0
+# types-python-dotenv>=0.19.0

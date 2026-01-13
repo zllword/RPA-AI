@@ -1,0 +1,30 @@
+{
+  "_comment": "微信机器人配置文件 - 复制此文件为 config.json 并修改",
+  "wechat_window_name": "微信",
+  "reply_delay_min": 2,
+  "reply_delay_max": 5,
+  "max_daily_replies": 100,
+  "auto_reply_keywords": [
+    "在吗",
+    "你好",
+    "在不在",
+    "hello",
+    "hi",
+    "咨询",
+    "帮忙"
+  ],
+  "blacklist": [
+    "广告号1",
+    "推广号2"
+  ],
+  "whitelist": [],
+  "ai_enabled": true,
+  "ai_model": "deepseek-chat",
+  "ai_api_key": "sk-your-api-key-here",
+  "ai_base_url": "https://api.deepseek.com/v1",
+  "fallback_responses": {
+    "default": "收到您的消息,我会尽快回复",
+    "greeting": "您好! 很高兴为您服务",
+    "unknown": "抱歉,我暂时无法理解,可以换个说法吗?"
+  }
+}
