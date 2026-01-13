@@ -515,8 +515,8 @@ MIT License - 仅供学习交流使用
 
 ## 📞 联系方式
 
-- Issue: [GitHub Issues](https://github.com/yourusername/wechat-rpa-bot/issues)
-- Email: your-email@example.com
+- Issue: [GitHub Issues](https://github.com/zllword/RPA-AI/issues)
+- Email: 435093332@qq.com
 
 ---
 
