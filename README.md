@@ -14,14 +14,6 @@
   - ✅ 会话持久化
   - ✅ 完整的类型提示
 
-### 🔵 原版本 (兼容保留)
-- **位置**: [wechat_rpa_bot.py](wechat_rpa_bot.py)
-- **架构**: 单体设计
-- **用途**: 向后兼容,可直接替换旧项目
-
-**详细优化内容**: 查看 [OPTIMIZATION_REPORT.md](OPTIMIZATION_REPORT.md)
-
----
 
 ## 📋 功能特点
 
